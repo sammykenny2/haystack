@@ -175,3 +175,7 @@ haystack/json-schemas
 
 # uv
 uv.lock
+
+# AI assistant configs
+.claude/
+.gemini/
