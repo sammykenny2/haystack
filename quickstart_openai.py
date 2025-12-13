@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2022-present deepset GmbH <info@deepset.ai>
+#
+# SPDX-License-Identifier: Apache-2.0
+
 """
 Haystack 快速入門範例 - 建立一個簡單的 RAG 應用程式
 
